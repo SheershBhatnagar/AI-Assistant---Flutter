@@ -1,11 +1,11 @@
 
-import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 
 import 'package:ai_assistant/openai_services.dart';
 import 'package:ai_assistant/feature_box.dart';
 import 'package:ai_assistant/pallete.dart';
 
+import 'package:animate_do/animate_do.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
 import 'package:speech_to_text/speech_to_text.dart';
 import 'package:flutter_tts/flutter_tts.dart';
