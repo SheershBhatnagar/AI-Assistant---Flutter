@@ -31,14 +31,14 @@ If you don't have an API Key then [CREATE HERE](https://platform.openai.com/acco
 ## Features
 
 - Live previews
-- Cross platform
+- Cross-platform
 - Smooth Animations
 - Speak back when response comes from ChatGPT API
 - Responses smartly between DALL-E Image & ChatGPT texts
 ## Screenshots
 
-[Not Listening](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/blob/master/screenshots/not_listening.jpg)
-[Listening](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/blob/master/screenshots/listening.jpg)
+![Not Listening](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/blob/master/screenshots/not_listening.jpg)
+![Listening](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/blob/master/screenshots/listening.jpg)
 
 ## Sounds
 
