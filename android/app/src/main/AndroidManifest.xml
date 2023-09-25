@@ -16,7 +16,7 @@
    <application
         android:label="AI Assistant"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/virtual_assistant">
         <activity
             android:name=".MainActivity"
             android:exported="true"
