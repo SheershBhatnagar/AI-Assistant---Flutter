@@ -68,6 +68,17 @@ We need to add three sounds for iOS. In Android it is added automatically
 ## Fonts
 
 [Cera Pro](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/tree/master/assets/fonts)
+## Installation
+
+Install .apk file
+
+```bash
+  Download .apk file
+  Enable Install from Unknown sources in settings
+  Click on the .apk file
+  Run
+```
+
 ## License
 
 [GNU General Public License v3.0](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/blob/master/LICENSE)
