@@ -38,7 +38,12 @@ If you don't have an API Key then [CREATE HERE](https://platform.openai.com/acco
 ## Screenshots
 
 ![Not Listening](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/blob/master/screenshots/not_listening.jpg)
+
+Not Listening
+
 ![Listening](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/blob/master/screenshots/listening.jpg)
+
+Listening
 
 ## Sounds
 
